@@ -1,0 +1,48 @@
+{
+  "name": "fsm",
+  "version": "0.1.0",
+  "private": true,
+  "description": "some",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t.sidorov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "mobx": "latest",
+    "mongodb": "latest",
+    "pubsub-js": "latest",
+    "redis": "latest",
+    "restify": "latest",
+    "socket.io": "latest",
+    "superagent": "latest",
+    "uuid": "latest",
+    "winston": "latest",
+    "winston-logstash": "latest"
+  },
+  "devDependencies": {
+    "babel-core": "latest",
+    "babel-plugin-syntax-decorators": "latest",
+    "babel-plugin-transform-class-properties": "latest",
+    "babel-plugin-transform-decorators-legacy": "latest",
+    "babel-plugin-transform-object-rest-spread": "latest",
+    "babel-preset-stage-2": "latest",
+    "babel-register": "latest",
+    "chai": "3.5.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "latest",
+    "gulp-istanbul": "latest",
+    "gulp-jshint": "latest",
+    "gulp-mocha": "3.0.1",
+    "gulp-sourcemaps": "latest",
+    "istanbul": "latest",
+    "jshint": "latest",
+    "lolex": "latest",
+    "mocha": "3.3.0",
+    "redis-cli": "latest",
+    "restify-plugins": "latest",
+    "sinon": "2.2.0"
+  }
+}

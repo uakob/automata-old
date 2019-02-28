@@ -1,0 +1,9 @@
+node_modules/
+.imdone/
+project.cson
+.jshintrc
+.tern-project
+.jshintrc
+.ftpconfig
+app/
+coverage/
